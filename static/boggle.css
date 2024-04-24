@@ -1,0 +1,10 @@
+body {
+    margin: 10px;
+    background-color: rgb(255, 208, 106);
+    text-align: center;
+    align-items: center;
+}
+
+h1{
+    font-weight: bolder;
+}
